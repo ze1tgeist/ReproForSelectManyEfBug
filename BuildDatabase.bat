@@ -1,2 +1,2 @@
-﻿cd .\ReproForSelectManyEfBug
+cd .\ReproForSelectManyEfBug
 dotnet ef database update
